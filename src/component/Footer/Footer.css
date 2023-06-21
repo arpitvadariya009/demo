@@ -1,0 +1,24 @@
+a {
+    text-decoration: none !important;
+}
+
+footer a img {
+    height: 20px;
+    width: 20px;
+    margin-right: 20px;
+}
+
+footer {
+    border-top: 1px solid rgb(178, 176, 176);
+    padding: 25px;
+}
+
+.footer-details {
+    display: flex;
+    margin-left: 140px;
+    justify-content: center;
+}
+
+.footer-details a {
+    color: #000;
+}

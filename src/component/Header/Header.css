@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.navbar-List {
+  gap: 3.2rem;
+}
+
+.fixed-header {
+
+  background-color: white;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
